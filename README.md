@@ -5,10 +5,8 @@
 
   <h3 align="center">NGINX (pronounced "engine x")</h3>
 
-
+![nginx](https://chris.lu/upload/images/NGINX.png)
 </div>
-
- ![Samba](https://adrianmejia.com/images/samba-filesharing-with-windows-ubuntu-mac-large.jpg)
 
 <!-- TABLE OF CONTENTS -->
 <details>
